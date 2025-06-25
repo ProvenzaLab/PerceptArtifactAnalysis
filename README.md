@@ -23,7 +23,7 @@ We demonstrate that OvER most effectively preserves the underlying neural signal
 
 ## Getting Started
 ### Prerequisites
-- Python 3.11
+- Python 3.11 (other Python versions may work but have not been tested)
 - Conda (recommended)
 
 ### Setup

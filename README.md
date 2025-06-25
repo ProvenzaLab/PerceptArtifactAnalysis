@@ -3,7 +3,10 @@
 Code for the IEEE NER 2025 paper:<br>
 **Artifact Identification and Mitigation Strategies for Longitudinal Neural Data Collection Onboard the Medtronic Percept DBS Device**<br>
 [[PDF]](PerceptArtifacts_NER2025_V2_6.pdf)<br>
-*Rick R. Hanish et al.*
+*Rick R. Hanish†, Thomas P. Kutcher, Tomasz M. Fraczek, Raphael A. Bechtold, Jeffrey Zhou, Saipravallika Chamarthi, Gabriel Reyes, Mark Libowitz, Ben Shofty, Brian J. Mickey, Brent M. Kious, Wayne K. Goodman, Ankit B. Patel, Sameer A. Sheth, Jeffrey A. Herron, Nicole R. Provenza‡*<br>
+Rice University, Baylor College of Medicine, University of Washington, and University of Utah<br>
+*†E-mail: `rick.hanish@rice.edu`<br>*
+*‡E-mail: `nicole.provenza@bcm.edu`*
 
 ## Overview
 This repository contains code for identifying and mitigating overvoltage artifacts in low-frequency longitudinal local field potential (LFP) power data collected using the Medtronic Percept DBS device. These artifacts arise when the recorded neural signal exceeds the device's maximum sensing range, leading to the insertion of a flag value that distorts downstream analyses.

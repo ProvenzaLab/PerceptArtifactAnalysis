@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ### Key Methods
-The primary file in this repository is `artifact_analysis.ipynb`. It first reads in data about patients from the `patient_info.yaml` file. This file is not included in the repository because it contains sensitive patient information. Its structure is the following which may be adapted to different datasets:
+The primary file in this repository is `artifact_analysis.ipynb`. It first reads in data about patients from the `patient_info.yaml` file. The complete file is not included in the repository because it contains sensitive patient information, but a placeholder containing the following example is included. Its contents may be filled in and its structure adapted to different datasets:
 ```
 patients:
   - id: B001

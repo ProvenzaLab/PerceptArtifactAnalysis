@@ -40,10 +40,10 @@ The primary file in this repository is `artifact_analysis.ipynb`. It first reads
 ```
 patients:
   - id: B001
-    data_path: "/Path/To/LFP/001"
+    data_path: "/Path/To/B001/LFP"
     dbs_on_date: "yyyy-mm-dd"
   - id: B002
-    data_path: "/Path/To/LFP/002"
+    data_path: "/Path/To/B002/LFP"
     dbs_on_date: "yyyy-mm-dd"
     ...
 ```

@@ -1,0 +1,7 @@
+patients:
+  - id: B001
+    data_path: "/Path/To/LFP/001"
+    dbs_on_date: "yyyy-mm-dd"
+  - id: B002
+    data_path: "/Path/To/LFP/002"
+    dbs_on_date: "yyyy-mm-dd"

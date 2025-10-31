@@ -2,7 +2,7 @@
 
 Code for the IEEE NER 2025 paper:<br>
 **Artifact Identification and Mitigation Strategies for Longitudinal Neural Data Collection Onboard the Medtronic Percept DBS Device**<br>
-[[PDF]](PerceptArtifacts_NER2025_V2_6.pdf)<br>
+[[PDF]](PerceptArtifacts_NER2025_V3-4.pdf)<br>
 *Rick R. Hanish†, Thomas P. Kutcher, Tomasz M. Fraczek, Raphael A. Bechtold, Jeffrey Zhou, Saipravallika Chamarthi, Gabriel Reyes, Mark Libowitz, Ben Shofty, Brian J. Mickey, Brent M. Kious, Wayne K. Goodman, Ankit B. Patel, Sameer A. Sheth, Jeffrey A. Herron, Nicole R. Provenza‡*<br>
 Rice University, Baylor College of Medicine, University of Washington, and University of Utah<br>
 *†E-mail: `rick.hanish@rice.edu`<br>*
